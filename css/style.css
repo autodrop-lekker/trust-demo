@@ -708,6 +708,7 @@ li {
   }
 }
 .about__wrapper {
+  margin-top: 80px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
