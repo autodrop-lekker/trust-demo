@@ -305,7 +305,7 @@ li {
 
 .hero__bg {
   padding-top: 49.843%;
-  background: url(img/fv.jpg) no-repeat center/cover;
+  background: url(/../img/fv.jpg) no-repeat center/cover;
   width: 100%;
   position: relative;
   height: auto;
