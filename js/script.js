@@ -1,5 +1,8 @@
 $(document).ready(function() {
     $('.drawer').drawer();
+    $('.drawer-nav').on('click', function() {
+       $('.drawer').drawer('close');
+    });
   });
 
   jQuery('a[href^="#"]').on('click', function() {
